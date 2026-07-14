@@ -3,7 +3,7 @@ layout: page
 title: "software Eng. lecture note
 permalink: /docs/softwareEng2026
 ---
-# ソフトウェア工学 第1回～第6回まとめ
+# ソフトウェア工学 
 
 ## 第1回 ガイダンス
 
